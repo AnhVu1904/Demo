@@ -24,7 +24,7 @@ function App() {
           </div>
 
           <div className="form">
-              <h1>Form nhập liệu</h1>
+              <h1>Form nhập</h1>
 
               <label>Họ và tên</label>
               <input
